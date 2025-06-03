@@ -4,7 +4,6 @@
 👋 Hi, I’m Anika — a learner and future full-stack web developer.<br><br>🔭 Right now, I am learning JavaScript (DOM) and will start Go (Golang) for backend soon.  <br>🎯 My goal is to become a remote frontend/backend developer and work with international teams.  <br>🛠️ I use HTML, CSS, JavaScript, Git, GitHub, and VS Code.  <br>🌱 I like building real projects and learning new things.<br><br>📬 You can connect with me or check out my portfolio!<br>
 
 
-## 🌐 Socials:
 ## 🌐 Connect with me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anika.sultana.421633)
