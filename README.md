@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/banner.png" alt="Anika's GitHub Banner" />
+  <img src="[https://raw.githubusercontent.com/your-username/your-repo-name/main/banner.png](https://github.com/Anika1111122222/Anika1111122222/blob/c41d630b99c1d6ed23141b22f155805b7ed98cff/banner.png)" alt="Anika's GitHub Banner" />
 </p>
 # ANIKA-SULTANA
 
