@@ -1,4 +1,7 @@
-# ANIKA-SULTANA-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/banner.png" alt="Anika's GitHub Banner" />
+</p>
+# ANIKA-SULTANA
 
 # 💫 About Me:
 👋 Hi, I’m Anika — a learner and future full-stack web developer.<br><br>🔭 Right now, I am learning JavaScript (DOM) and will start Go (Golang) for backend soon.  <br>🎯 My goal is to become a remote frontend/backend developer and work with international teams.  <br>🛠️ I use HTML, CSS, JavaScript, Git, GitHub, and VS Code.  <br>🌱 I like building real projects and learning new things.<br><br>📬 You can connect with me or check out my portfolio!<br>
